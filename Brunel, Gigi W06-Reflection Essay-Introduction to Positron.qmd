@@ -1,0 +1,39 @@
+---
+title: "W06-Reflection Essay-Introduction to Positron"
+author: "Gigi Brunel"
+date: '`r format(Sys.time())`'
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Reflection on Positron
+
+::: callout-note
+## This assignment focuses on comparing Positron with RStudio, practicing Quarto publishing, and exploring how AI tools can support data-science writing and coding.
+:::
+
+## **Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?**
+
+Positron seems very user-friendly and offers many more features than RStudio. One feature I found particularly interesting was the built-in AI functionality. I did not realize that Positron could provide AI assistance that helps generate code and functions based on what you are trying to accomplish. I also found it impressive that Positron is compatible with VS Code, RStudio, and Python. This makes it easier for users to transition to Positron while also learning and working with other software platforms. Another feature I really liked was the Quarto preview workflow. Being able to write a `.qmd` file, render it, and preview the output all within Positron makes the writing process much smoother and more efficient.
+
+## **Describe the various ways you can use AI inside Positron. Some are free while others are not.** 
+
+AI in Positron can be used in several ways. It can help generate code, explain what code does, create graphs and visualizations, troubleshoot errors, and suggest improvements to make code more organized and readable. AI can also assist with learning new programming concepts by providing explanations and examples directly within the platform. Some AI tools are free, while others may require a subscription or API access depending on the provider being used.
+
+## **Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?**
+
+I installed and applied for GitHub Copilot through my school's educational program. The most beneficial feature for me was its ability to identify and help fix errors in my code while also explaining the reasoning behind the solution. Instead of leaving Positron and searching online for answers, I could receive assistance directly within the application. I also found it useful for learning new coding techniques and discovering more efficient ways to organize and structure my code.
+
+![](Screenshot%20of%20AI%20GitHub.png){width="219"}
+
+## **Play with it and do you find it helpful or distracting?**
+
+After experimenting with the AI tools, I found them to be mostly helpful. The suggestions often saved time and provided useful guidance when I was unsure how to proceed. However, there were occasions when the AI suggested code that was not what I intended to use. If I accidentally accepted the suggestion, it interrupted my workflow because I had to go back and remove or revise the code. Overall, I found the AI more helpful than distracting, especially when used as a learning tool rather than relying on it for every task.
